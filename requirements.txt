@@ -1,0 +1,10 @@
+praw
+openai
+torch
+transformers
+pandas
+matplotlib
+seaborn
+plotly
+python-dotenv
+scikit-learn
